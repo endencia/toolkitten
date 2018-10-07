@@ -6,6 +6,10 @@ https://memberportal.1millionwomentotech.com/diy
 
 ![diy-page](./images/diy-page.jpg)
 
+## Add link for supporters to donate and empower women with a link button to
+https://memberportal.1millionwomentotech.com/fund-yourself-fund-others
+
+
 ## Fill in the registration form
 
 Scroll down to the registration form and fill in the form with your data.
@@ -21,3 +25,4 @@ Scroll down to the registration form and fill in the form with your data.
 ## Log into the Memberportal with your new username and password
 
 ![diy-page](./images/diy-log-in.jpg)
+
